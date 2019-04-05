@@ -24,7 +24,7 @@ $(function () {
     });
 });
 
-// Code for map function
+// Code for filter function
 $(function () {
     // Set up some data and variables
     const values = [3, 6, 9, 12],
